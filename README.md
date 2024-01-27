@@ -3,12 +3,10 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DV-dongseop&show_icons=true&theme=dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DV-dongseop&layout=donut)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ehdtjq1278)](https://solved.ac/ehdtjq1278)
 
 </div>
 
