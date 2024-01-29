@@ -1,15 +1,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDV-dongseop&count_bg=%23A5F5FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="center">
-  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongsubnambuk&layout=donut)
-
-
-</div>
-
 
 
 <div align=center><h1>📚 STACKS</h1></div>
