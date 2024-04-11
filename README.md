@@ -4,7 +4,7 @@
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
 - 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 서동섭 입니다.
-- 백엔드 관심있고 공부하고 있습니다.
+- 백엔드 공부 중
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
