@@ -3,7 +3,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
-- 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 서동섭 입니다.
+- 계명대학교 컴퓨터공학부 컴퓨터공학과에 재학중인 서동섭 입니다.
 - 백엔드 공부 중
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
@@ -20,20 +20,34 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
 
-  <!-- <div> ✍️Studied</div>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <div> ✍️Study scheduled</div>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-
-</div> -->
+  <table>
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Skills</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>✍️ Studied</td>
+                <td>
+                    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+                    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+                    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+                    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+                    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+                </td>
+            </tr>
+            <tr>
+                <td>✍️ Studying</td>
+                <td>
+                    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+                    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 <h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
 
@@ -48,9 +62,13 @@
 
 - `[ehdtjq1278@naver.com]`
 
-<h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
+<h2 style="display: inline-block; vertical-align: middle;">대외활동</h2>
 
 - `멋쟁이 사자처럼 대학 11기 수료(2023.12)`
+- `멋쟁이 사자처럼 대학 12기 운영진(2024.03 ~ )`
+
+- `2023 공과대학 컴퓨터공학과 학생회 교류차장(2023.03 ~ 2023.12)`
+- `2024 공과대학 컴퓨터공학과 학생회 복지차장(2024.03 ~ )`
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
 
