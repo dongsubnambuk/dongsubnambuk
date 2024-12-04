@@ -155,18 +155,11 @@
 <div align="center">
 
 ```mermaid
-gantt
-    title Recent Competition & Hackathon Journey
-    dateFormat YYYY
-    section 2024    
-    SW개발 공모전           :2024, 0d
-    창의융합형 인재양성 페스티벌  :2024, 0d
-    멋쟁이사자처럼 12기 해커톤    :2024, 0d
-    section 2023
-    멋쟁이사자처럼 11기 해커톤    :2023, 0d
-    신한금융 빅데이터 해커톤      :2023, 0d
-    section 2020
-    4차 산업혁명인재양성 연합페스티벌 :2020, 0d
+timeline
+    title Recent Competition & Hackathon Timeline
+    2020 : 4차 산업혁명인재양성 연합페스티벌
+    2023 : 멋쟁이사자처럼 11기 해커톤 : 신한금융 빅데이터 해커톤
+    2024 : SW개발 공모전 : 창의융합형 인재양성 페스티벌 : 멋쟁이사자처럼 12기 해커톤
 ```
 
 </div>
