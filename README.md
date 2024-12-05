@@ -67,7 +67,7 @@
 
 <table>
   <tr>
-    <td width="70">
+    <td width="70" align="center">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="50" height="50"/>
     </td>
     <td>
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="50" height="50"/>
     </td>
     <td>
@@ -89,11 +89,11 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/📄-Research-blue?style=for-the-badge" width="50" height="50"/>
+    <td align="center">
+      ✍️
     </td>
     <td>
-      <strong>한국정보기술학회 추계학술대회 및 대학생논문경진대회 동상</strong>
+      <strong><a href="https://ki-it.or.kr/conference/2024" target="_blank">한국정보기술학회 추계학술대회 및 대학생논문경진대회 동상</a></strong>
       <br/>
       • N-그램 및 임베딩 기반 표절 탐지 성능 비교
       <br/>
@@ -101,8 +101,8 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/🦁-LikeLion-orange?style=for-the-badge" width="50" height="50"/>
+    <td align="center">
+      🦁
     </td>
     <td>
       <strong>멋쟁이 사자처럼</strong>
