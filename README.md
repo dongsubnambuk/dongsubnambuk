@@ -68,7 +68,7 @@
 <table>
   <tr>
     <td width="70">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="50" height="50"/>
     </td>
     <td>
       <strong>2024 창의융합형 인재양성 공유-협업 페스티벌 공모전 우수상</strong>
@@ -80,17 +80,29 @@
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="50" height="50"/>
     </td>
     <td>
       <strong>2020 4차 산업혁명인재양성 연합페스티벌 공모전 장려상</strong>
       <br/>
-      • C언어기반 간단 게임프로그램
+      • C언어기반 간단 게임프로그램
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+      <img src="https://img.shields.io/badge/📄-Research-blue?style=for-the-badge" width="50" height="50"/>
+    </td>
+    <td>
+      <strong>한국정보기술학회 추계학술대회 및 대학생논문경진대회 동상</strong>
+      <br/>
+      • N-그램 및 임베딩 기반 표절 탐지 성능 비교
+      <br/>
+      • 대학 챗봇 활용의 인식 및 효율성 평가
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/🦁-LikeLion-orange?style=for-the-badge" width="50" height="50"/>
     </td>
     <td>
       <strong>멋쟁이 사자처럼</strong>
