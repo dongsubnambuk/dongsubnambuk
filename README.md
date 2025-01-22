@@ -93,11 +93,11 @@
       ✍️
     </td>
     <td>
-      <strong><a href="https://ki-it.or.kr/conference/2024" target="_blank">한국정보기술학회 추계학술대회 및 대학생논문경진대회 동상</a></strong>
+      <strong><a href="https://ki-it.or.kr/conference/2024" target="_blank">2024 한국정보기술학회 추계학술대회 및 대학생논문경진대회 동상</a></strong>
       <br/>
-      • N-그램 및 임베딩 기반 표절 탐지 성능 비교
+      • N-그램 및 임베딩 기반 표절 탐지 성능 비교<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025335" target="_blank">
       <br/>
-      • 대학 챗봇 활용의 인식 및 효율성 평가
+      • 대학 챗봇 활용의 인식 및 효율성 평가<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025346" target="_blank">
     </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@
     <td>
       <strong>멋쟁이 사자처럼</strong>
       <br/>
-      • 12기 운영진 (2024.03 ~ Present)
+      • 12기 운영진 (2024.03 ~ 2024.12)
       <br/>
       • 11기 아기사자 수료 (2023.03 ~ 2023.12)
     </td>
