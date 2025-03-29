@@ -17,6 +17,8 @@
 - **계명대학교 컴퓨터공학과 학생회** | 교류차장 (2023.03 ~ 2023.12)
 - **SW교육기부단 코드클럽** | 대구광역시 신서초등학교 교육 (2025년 상반기)
 
+## 💻 기술 스택
+
 ### Backend (학습 중) 🌱
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
