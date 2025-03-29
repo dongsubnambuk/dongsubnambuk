@@ -63,5 +63,6 @@
   [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025346)
 
 ## 📜 자격증
+- SQLD(SQL개발자)
 - 컴퓨터활용능력 1급
 - 한국사능력검정시험 2급
