@@ -1,6 +1,6 @@
 <div align="center">
   <h1>서동섭</h1>
-  <p>소통으로 개발하고 공감으로 일하는 개발자</p>
+  <p>코드로 소통하고 공감으로 연결하는 개발자</p>
   
   [![Email](https://img.shields.io/badge/Email-ehdtjq1278@naver.com-007396?style=flat-square&logo=gmail&logoColor=white)](mailto:ehdtjq1278@naver.com)
   [![Blog](https://img.shields.io/badge/Blog-dongseobi.tistory.com-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://dongseobi.tistory.com/)
