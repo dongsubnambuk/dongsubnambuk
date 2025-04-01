@@ -1,10 +1,13 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=120&section=header" width="100%"/>
+</div>
+
+<div align="center">
   <h1>서동섭</h1>
-  <p>코드로 소통하고 공감으로 연결하는 개발자</p>
+  <p>Yes로 시작해 끈기로 완성하는 개발자</p>
   
   [![Email](https://img.shields.io/badge/Email-ehdtjq1278@naver.com-007396?style=flat-square&logo=gmail&logoColor=white)](mailto:ehdtjq1278@naver.com)
   [![Blog](https://img.shields.io/badge/Blog-dongseobi.tistory.com-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://dongseobi.tistory.com/)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongsubnambuk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ## 🎓 학력
@@ -14,6 +17,7 @@
 - **멋쟁이사자처럼 대학 13기** | 운영진, 부회장 (2025.01 ~ 현재)
 - **멋쟁이사자처럼 대학 12기** | 운영진 (2024.01 ~ 2024.12)
 - **멋쟁이사자처럼 대학 11기** | 신입 멤버 (2023.01 ~ 2023.12)
+- **계명대학교 진로멘토단 드리미** | 영상팀 (2020.06 ~ 2021.03)
 - **계명대학교 컴퓨터공학과 학생회** | 교류차장 (2023.03 ~ 2023.12)
 - **SW교육기부단 코드클럽** | 대구광역시 신서초등학교 교육 (2025년 상반기)
 
@@ -67,3 +71,9 @@
 - SQLD(SQL개발자)
 - 컴퓨터활용능력 1급
 - 한국사능력검정시험 2급
+
+  
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e9fb,100:a1c4fd&height=120&section=footer" width="100%"/>
+  <p>© 2025 dongsubnambuk - Thank you for visiting!</p>
+</div>
