@@ -41,36 +41,39 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=white)
 
 ## 🚀 프로젝트
+
+### 새로고침 (Refresh)
+> 환경 보호와 자원 재활용을 중심으로 설계된 종합 플랫폼  
+> [GitHub Repository](https://github.com/TEAM-CP6Q/Reload_F5)
+- 환경 보호 의식 고취와 실천을 위한 통합 서비스 개발
+- 2025년 계명대학교 캡스톤디자인 작품발표회 우수상 수상
+
+### 우리동네영양사
+> 바쁜 현대인들을 위한 건강한 도시락 정기 구독 서비스  
+> [GitHub Repository](https://github.com/dongsubnambuk/LikeLion-12th-Hackathon)
+  
 ### 스매싱 (Smashing)
 > 온오프라인 스터디 매칭 서비스  
 > [GitHub Repository](https://github.com/dongsubnambuk/SMASHING)
 - 2024년 4차 산업혁명 인재양성 공유 협업 페스티벌 우수상 수상
 - 스터디와 멘토를 손쉽게 찾을 수 있는 플랫폼 개발
 
-### 새로고침 (Refresh)
-> 환경 보호와 자원 재활용을 중심으로 설계된 종합 플랫폼  
-> [GitHub Repository](https://github.com/TEAM-CP6Q/Reload_F5)
-- 환경 보호 의식 고취와 실천을 위한 통합 서비스 개발
 
-### 우리동네영양사
-> 바쁜 현대인들을 위한 건강한 도시락 정기 구독 서비스  
-> [GitHub Repository](https://github.com/dongsubnambuk/LikeLion-12th-Hackathon)
 
 ## 🏆 수상 경력
-- **2025년 한국정보기술학회 하계종합학술대회 및 대학생논문경진대회** | 은상 (ArcFace 기반 실시간 얼굴 비교 및 랜드마크 분석 시스템)
+- **2025년 한국정보기술학회 하계종합학술대회 및 대학생논문경진대회** | 은상 (환경 보호와 자원 재활용을 위한 종합 플랫폼 서비스 구현)
 - **2024년 4차 산업혁명 인재양성 공유 협업 페스티벌** | ICT솔루션(코딩)부문 우수상
-- **한국정보기술학회 2024년도 추계종합학술대회** | 우수논문상 (N-그램 및 임베딩 기반 표절 탐지 성능 비교)
 - **한국정보기술학회 2024년도 추계종합학술대회** | 우수논문상 (대학 챗봇 활용의 인식 및 효율성 평가)
 - **2020년 4차 산업혁명인재양성 연합페스티벌 공모전** | ICT솔루션(코딩)부문 장려상
 
 ## 📝 논문
-- **N-그램 및 임베딩 기반 표절 탐지 성능 비교** | 2024 한국정보기술학회  
-  [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025335)
 - **대학 챗봇 활용의 인식 및 효율성 평가** | 2024 한국정보기술학회  
   [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025346)
+- **환경 보호와 자원 재활용을 위한 종합 플랫폼 서비스 구현** | 2025 한국정보기술학회  
+  [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12288804)
 
 ## 📜 자격증
-- SQLD(SQL개발자)
+- SQLD
 - 컴퓨터활용능력 1급
 - 한국사능력검정시험 2급
 
