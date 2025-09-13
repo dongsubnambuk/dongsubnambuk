@@ -58,6 +58,10 @@
 > AI기반 지역별 맞춤형 행사 추친 서비스  
 > [GitHub Repository](https://github.com/Likelion-13th-EGSBI)
 
+### 쉼표(comma)
+> 감정 중심 일기 서비스  
+> [GitHub Repository](https://github.com/comma-journal/comma)
+
   
 ### 스매싱 (Smashing)
 > 온오프라인 스터디 매칭 서비스  
