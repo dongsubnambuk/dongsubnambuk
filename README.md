@@ -11,7 +11,7 @@
 </div>
 
 ## 🎓 학력
-- **계명대학교** | 컴퓨터공학과 (2020.03 ~ 현재)
+- **계명대학교** | 컴퓨터공학과 (2020.03 ~ 2026.02)
 
 ## 📋 활동 경력
 - **계명대 임베디드시스템 연구실 학부연구생** | (2025.08 ~ 2026.02)
@@ -99,5 +99,5 @@
   
   <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e9fb,100:a1c4fd&height=120&section=footer" width="100%"/>
-  <p>© 2025 dongsubnambuk - Thank you for visiting!</p>
+  <p>© 2026 dongsubnambuk - Thank you for visiting!</p>
 </div>
