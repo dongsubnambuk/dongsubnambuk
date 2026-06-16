@@ -93,6 +93,7 @@
   [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12288804)
 
 ## 📜 자격증
+- 정보처리기사
 - SQLD
 - 컴퓨터활용능력 1급
 - 한국사능력검정시험 2급
