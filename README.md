@@ -65,12 +65,6 @@
 > 감정 중심 일기 서비스  
 > [GitHub Repository](https://github.com/comma-journal/comma)
 
-  
-### 스매싱 (Smashing)
-> 온오프라인 스터디 매칭 서비스  
-> [GitHub Repository](https://github.com/dongsubnambuk/SMASHING)
-- 2024년 4차 산업혁명 인재양성 공유 협업 페스티벌 우수상 수상
-- 스터디와 멘토를 손쉽게 찾을 수 있는 플랫폼 개발
 
   ![](https://github.com/dongsubnambuk/github-stats-transparent/blob/output/generated/overview.svg)
   ![](https://github.com/dongsubnambuk/github-stats-transparent/blob/output/generated/languages.svg)
