@@ -94,13 +94,13 @@
 
   
   <div align="center">
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dongsubnambuk&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/dongsubnambuk"
-  width="600"
-  height="300"
-/>
-</a>
+    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dongsubnambuk&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/dongsubnambuk"
+      width="600"
+      height="300"
+    />
+    </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e9fb,100:a1c4fd&height=120&section=footer" width="100%"/>
   <p>© 2026 dongsubnambuk - Thank you for visiting!</p>
 </div>
