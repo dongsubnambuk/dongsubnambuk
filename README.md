@@ -52,9 +52,15 @@
 - 환경 보호 의식 고취와 실천을 위한 통합 서비스 개발
 - 2025년 계명대학교 캡스톤디자인 작품발표회 우수상 수상
 
+### 맴매(MEMME)
+> 떠오른 생각을 빠르게 기록하고, 보드와 노트로 정리하는 개인 메모 앱  
+> [GitHub Repository](https://github.com/MemoryMe-offical)
+- 스토어 정식 출시
+
 ### 우리동네영양사
 > 바쁜 현대인들을 위한 건강한 도시락 정기 구독 서비스  
 > [GitHub Repository](https://github.com/dongsubnambuk/LikeLion-12th-Hackathon)
+
 
 ### 이벤토리(Eventroy)
 > AI기반 지역별 맞춤형 행사 추친 서비스  
