@@ -8,6 +8,18 @@
   
   [![Email](https://img.shields.io/badge/Email-ehdtjq1278@naver.com-007396?style=flat-square&logo=gmail&logoColor=white)](mailto:ehdtjq1278@naver.com)
   [![Blog](https://img.shields.io/badge/Blog-dongseobi.tistory.com-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://dongseobi.tistory.com/)
+<div align="center">
+  <img
+    src="https://www.gitskins.com/api/section/heatmap?username=dongsubnambuk&theme=aurora&style=jet"
+    width="51%"
+  />
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dongsubnambuk&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/dongsubnambuk"
+      width="48%"
+    />
+  </a>
+</div>
 </div>
 
 ## 🎓 학력
@@ -100,13 +112,6 @@
 
   
   <div align="center">
-    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dongsubnambuk&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/dongsubnambuk"
-      width="600"
-      height="300"
-    />
-    </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e9fb,100:a1c4fd&height=120&section=footer" width="100%"/>
   <p>© 2026 dongsubnambuk - Thank you for visiting!</p>
 </div>
