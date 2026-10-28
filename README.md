@@ -64,6 +64,11 @@
 - 환경 보호 의식 고취와 실천을 위한 통합 서비스 개발
 - 2025년 계명대학교 캡스톤디자인 작품발표회 우수상 수상
 
+### 달리모(DALLIMO)
+> 주변 러닝 코스를 찾고, 코스별 기록으로 순위를 겨루고, 멀리 사는 친구와 같은 시간에 함께 달리는 iOS 러닝 앱  
+> [GitHub Repository](https://github.com/dongsubnambuk/dallimo)
+- [App Store](https://apps.apple.com/kr/app/%EB%8B%AC%EB%A6%AC%EB%AA%A8/id6818753247) 정식 출시
+
 ### 맴매(MEMME)
 > 떠오른 생각을 빠르게 기록하고, 보드와 노트로 정리하는 개인 메모 앱  
 > [GitHub Repository](https://github.com/MemoryMe-offical)
